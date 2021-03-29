@@ -1,5 +1,5 @@
 # Site Settings
-name: 阿和小站
+name: AHE
 title: 阿和的个人技术博客
 description: Jekflix is a template for Jekyll inspired by Netflix and made by
   Thiago Rossener.
@@ -26,11 +26,7 @@ disqus_username: disqus_username
 # Social Media Settings
 # Remove the item if you don't need it
 github_username: ahe0007
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+artstation_username: ahe_china
 
 
 # Posts Settings
